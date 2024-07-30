@@ -1,6 +1,7 @@
 # BudgetBuddy
 Expence Tracker Project
-Overviewm:
+
+Overview:
 BudgetBuddy is a web application designed to help users efficiently track and manage their expenses. Built using HTML, CSS, and JavaScript, this app provides a simple and intuitive interface for adding expenses, viewing detailed descriptions, and keeping track of overall financial status, including total income, expenses, and remaining balance.
 
 Features :
