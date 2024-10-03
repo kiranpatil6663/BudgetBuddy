@@ -23,7 +23,8 @@ JavaScript: For implementing functionality and interactive features.
 Installation :
 
 To run BudgetBuddy locally, follow these steps:
-Clone the repository:git clone https://github.com/yourusername/BudgetBuddy.git
+Clone the repository:git clone 
+(https://github.com/kiranpatil6663/BudgetBuddy)
 Navigate to the project directory
 Open the index.html file in your preferred web browser.
 
@@ -32,6 +33,3 @@ Usage :
 Add Expense: Enter the details of your expense, including name, category, and amount. Click 'Add' to store the information.
 View Summary: Check the summary section to see your total income, expenses, and the remaining balance.
 
-Contributing :
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to fork the repository and submit a pull request.
